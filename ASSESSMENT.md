@@ -74,7 +74,7 @@ Live smoke result: NOT RUN AT TIME OF WRITING.
 
 ## 8. Repository
 
-URL: TO BE ADDED AFTER PUSH
+URL: URL: https://github.com/caesar-mansour/resend-voxgig-sdk
 
 ## Work log (Israel time)
 
